@@ -2,6 +2,15 @@
 
 export const bangs = [
   {
+    c: "Tech",
+    d: "lucide.dev",
+    r: 0,
+    s: "Lucide svg icons",
+    sc: "SVG icons",
+    t: "svg",
+    u: "https://lucide.dev/icons/?search={{{s}}}",
+  },
+  {
     c: "AI",
     d: "www.t3.chat",
     r: 0,
@@ -100037,15 +100046,6 @@ export const bangs = [
     sc: "Reference (words intl)",
     t: "svenska",
     u: "https://svenska.se/tre/?sok={{{s}}}&pz=1",
-  },
-  {
-    c: "Tech",
-    d: "developer.mozilla.org",
-    r: 0,
-    s: "Mozilla Developer Network",
-    sc: "Languages (other)",
-    t: "svg",
-    u: "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=svg",
   },
   {
     c: "Multimedia",
